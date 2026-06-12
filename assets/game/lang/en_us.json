@@ -23,6 +23,9 @@
   "profession.medic": "Medic",
   "profession.support": "Support",
 
+  "game.choose_profession.title": "Choose your profession",
+  "game.choose_profession.subtitle": "Profession selector given to you",
+
   "scoreboard.game_start_ctd": "Game Start Countdown",
   "scoreboard.game_state": "Game State"
 }

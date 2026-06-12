@@ -23,6 +23,9 @@
   "profession.medic": "Healy Kitteh",
   "profession.support": "Helpy Kitteh",
 
+  "game.choose_profession.title": "Pick ur jobz!",
+  "game.choose_profession.subtitle": "Job picker go in ur bag!",
+
   "scoreboard.game_start_ctd": "Teh Cooldown Befor Smashin",
   "scoreboard.game_state": "Teh Statz"
 }
