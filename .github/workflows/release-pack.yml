@@ -19,7 +19,7 @@ on:
 # 配置区 ⬇️ 在此修改打包名称、白名单文件夹 / 文件
 # ============================================================
 env:
-  PACKAGE_NAME: "攻防战多语言资源包-${{ github.event.release.tag_name }}"
+  PACKAGE_NAME: "Attack-Defense-ResourcePacks-${{ github.event.release.tag_name }}"
 
 jobs:
   package-and-upload:
