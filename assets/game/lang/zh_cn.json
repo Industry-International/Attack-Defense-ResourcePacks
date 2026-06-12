@@ -27,5 +27,6 @@
   "game.choose_profession.subtitle": "职业选择器已发放至背包",
 
   "scoreboard.game_start_ctd": "游戏开始倒计时",
-  "scoreboard.game_state": "游戏状态"
+  "scoreboard.game_state": "游戏状态",
+  "scoreboard.redeploy_ctd": "重部署倒计时"
 }

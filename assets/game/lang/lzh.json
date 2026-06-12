@@ -27,5 +27,6 @@
   "game.choose_profession.subtitle": "職業之器已賜入爾囊",
 
   "scoreboard.game_start_ctd": "戰始倒數",
-  "scoreboard.game_state": "戰局之態"
+  "scoreboard.game_state": "戰局之態",
+  "scoreboard.redeploy_ctd": "重布陣倒數"
 }

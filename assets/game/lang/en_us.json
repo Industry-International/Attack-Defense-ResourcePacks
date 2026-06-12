@@ -27,5 +27,6 @@
   "game.choose_profession.subtitle": "Profession selector given to you",
 
   "scoreboard.game_start_ctd": "Game Start Countdown",
-  "scoreboard.game_state": "Game State"
+  "scoreboard.game_state": "Game State",
+  "scoreboard.redeploy_ctd": "Redeploy Countdown"
 }
