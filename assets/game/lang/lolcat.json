@@ -27,5 +27,6 @@
   "game.choose_profession.subtitle": "Job picker go in ur bag!",
 
   "scoreboard.game_start_ctd": "Teh Cooldown Befor Smashin",
-  "scoreboard.game_state": "Teh Statz"
+  "scoreboard.game_state": "Teh Statz",
+  "scoreboard.redeploy_ctd": "Teh Cooldown Befor Re-smashin"
 }
